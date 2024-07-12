@@ -1,0 +1,62 @@
+### ReYohoho and Rezka
+#nftset=/reyohoho.space/4#inet#fw4#vpn_domains
+#nftset=/stream.voidboost.cc/4#inet#fw4#vpn_domains
+
+### mc.webvisor.org (Yandex)
+#nftset=/mc.webvisor.org/4#inet#fw4#vpn_domains
+
+### 3dnews
+#nftset=/3dnews.ru/4#inet#fw4#vpn_domains
+
+### AliExpress
+#tdumproxy.alibaba.com/4#inet#fw4#vpn_domains
+#tdumproxy.alibaba.com.gds.alibabadns.com/4#inet#fw4#vpn_domains
+#ru-wagbridge.alibaba.com/4#inet#fw4#vpn_domains
+#default.ovs.ru.wagbridge.ae.alibabacorp.com/4#inet#fw4#vpn_domains
+#default.ovs.ru.wagbridge.ae.alibabacorp.com.gds.alibabadns.com/4#inet#fw4#vpn_domains
+#de-wagbridge.alibaba.com/4#inet#fw4#vpn_domains
+#ru-wum.aliexpress.com/4#inet#fw4#vpn_domains
+#aliexpress.ru/4#inet#fw4#vpn_domains
+#vpp-license-proxy.aliyuncs.com/4#inet#fw4#vpn_domains
+#cloud-config-service.rtc.aliyuncs.com/4#inet#fw4#vpn_domains
+#audid-api.taobao.com/4#inet#fw4#vpn_domains
+#fourier.taobao.com/4#inet#fw4#vpn_domains
+#mcms-read.alibaba.com/4#inet#fw4#vpn_domains
+#h-adashx4ae.ut.taobao.com/4#inet#fw4#vpn_domains
+#retcode-us-west-1.arms.aliyuncs.com/4#inet#fw4#vpn_domains
+#acs.m.taobao.com/4#inet#fw4#vpn_domains
+#ae.mmstat.com/4#inet#fw4#vpn_domains
+#log.mmstat.com/4#inet#fw4#vpn_domains
+#gm.mmstat.com/4#inet#fw4#vpn_domains
+#gj.mmstat.com/4#inet#fw4#vpn_domains
+#wgo.mmstat.com/4#inet#fw4#vpn_domains
+
+#nftset=/applog.uc.cn/4#inet#fw4#vpn_domains
+#nftset=/acjs.aliyun.com/4#inet#fw4#vpn_domains
+
+### Trovo
+nftset=/ins-5776sx9h.ias.tencent-cloud.net/4#inet#fw4#vpn_domains
+nftset=/oth.eve.mdt.qq.com/4#inet#fw4#vpn_domains
+nftset=/tdm.trovo.live/4#inet#fw4#vpn_domains
+nftset=/ins-2ybret5v.ias.tencent-cloud.net/4#inet#fw4#vpn_domains
+nftset=/ts.qq.com/4#inet#fw4#vpn_domains
+nftset=/imsdk-sgp.msf.tencent-cloud.com/4#inet#fw4#vpn_domains
+nftset=/shortsgp.im.qcloud.com/4#inet#fw4#vpn_domains
+nftset=/ins-diu1q33u.ias.tencent-cloud.net/4#inet#fw4#vpn_domains
+nftset=/h.trace.qq.com/4#inet#fw4#vpn_domains
+#aegis.trovo.live/4#inet#fw4#vpn_domains
+#aegis.qq.com/4#inet#fw4#vpn_domains
+nftset=/ins-su28bvwf.ias.tencent-cloud.net/4#inet#fw4#vpn_domains
+nftset=/appcfg.v.qq.com/4#inet#fw4#vpn_domains
+nftset=/icgnez51.dayugslb.com/4#inet#fw4#vpn_domains
+nftset=/guid.tpns.sgp.tencent.com/4#inet#fw4#vpn_domains
+nftset=/stat.tpns.sgp.tencent.com/4#inet#fw4#vpn_domains
+nftset=/tlive.aihelp.net/4#inet#fw4#vpn_domains
+nftset=/guigu.singaporepaya.com/4#inet#fw4#vpn_domains
+nftset=/intlsdk.trovo.live/4#inet#fw4#vpn_domains
+nftset=/access1.tpns.sgp.tencent.com/4#inet#fw4#vpn_domains
+nftset=/ins-x9e4tvue.ias.tencent-cloud.net/4#inet#fw4#vpn_domains
+nftset=/oth.str.mdt.qq.com/4#inet#fw4#vpn_domains
+
+
+nftset=/rumt-us.com/4#inet#fw4#vpn_domains
